@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Data_Visualize
 =======
 # Lecture Homework 
@@ -8,4 +8,4 @@
 - Web Scraping
 - Data Cleaning
 - Data Visualization
->>>>>>> master
+

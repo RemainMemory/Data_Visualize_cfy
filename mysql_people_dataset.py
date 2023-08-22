@@ -5,7 +5,7 @@ DB_CONFIG = {
     "host": "localhost",
     "port": 3306,
     "user": "root",
-    "password": "KINGISME24??",
+    "password": "12345667",
     "db": "people",
     "charset": "utf8mb3"
 }
